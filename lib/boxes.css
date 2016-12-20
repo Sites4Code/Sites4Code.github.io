@@ -1,0 +1,12 @@
+/* Custom CSS Bxes to stylies more the website. By (C) Ad5001 2016 */
+
+.box {
+    background-color: #fff;
+    border-color: #007AFF;
+    border-radius: 15px;
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    color: #007AFF;
+    padding: 8px;
+}
